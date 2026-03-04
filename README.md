@@ -1,5 +1,5 @@
 <div  align="center">
-<p><img src="img/run.heyfordy.de.png" alt="Logo" style="max-width: 25%;"></p>
+<p><img src="img/run.heyfordy.dev.png" alt="Logo" style="max-width: 25%;"></p>
 
 ---
 <h3>My collection of scripts and tools for automating boring stuff.</h3>
@@ -42,11 +42,11 @@
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-irm https://run.heyfordy.de | iex
+irm https://run.heyfordy.dev | iex
 ```
 Alternatively, you can use the following (this will be deprecated in the future):  
 ```
-irm https://win.heyfordy.de/activate | iex
+irm https://win.heyfordy.dev/activate | iex
 ```
 
 3.   You will see the activation options. Choose the activation options highlighted in green. 
@@ -64,7 +64,7 @@ irm https://win.heyfordy.de/activate | iex
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-bash -c "$(curl -fsSL https://run.heyfordy.de/pve)"
+bash -c "$(curl -fsSL https://run.heyfordy.dev/pve)"
 ```
 3.   That's it!
 
@@ -79,7 +79,7 @@ bash -c "$(curl -fsSL https://run.heyfordy.de/pve)"
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-bash -c "$(curl -fsSL https://run.heyfordy.de/pved)"
+bash -c "$(curl -fsSL https://run.heyfordy.dev/pved)"
 ```
 3.   That's it!
 
@@ -94,7 +94,7 @@ bash -c "$(curl -fsSL https://run.heyfordy.de/pved)"
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-bash -c "$(curl -fsSL https://run.heyfordy.de/pveha)"
+bash -c "$(curl -fsSL https://run.heyfordy.dev/pveha)"
 ```
 3.   That's it!
 
@@ -113,7 +113,7 @@ bash -c "$(curl -fsSL https://run.heyfordy.de/pveha)"
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-irm https://run.heyfordy.de/jellyfin-update | iex
+irm https://run.heyfordy.dev/jellyfin-update | iex
 ```
 3.   That's it!
 
@@ -127,7 +127,7 @@ irm https://run.heyfordy.de/jellyfin-update | iex
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-iex "& { $(iwr -useb 'https://run.heyfordy.de/spotx') } -new_theme -block_update_on"
+iex "& { $(iwr -useb 'https://run.heyfordy.dev/spotx') } -new_theme -block_update_on"
 ```
 3.   That's all
 
@@ -141,7 +141,7 @@ iex "& { $(iwr -useb 'https://run.heyfordy.de/spotx') } -new_theme -block_update
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-irm https://run.heyfordy.de/apple | iex
+irm https://run.heyfordy.dev/apple | iex
 ```
 3.   That's all
 
@@ -157,7 +157,7 @@ irm https://run.heyfordy.de/apple | iex
 
 2.   **Copy and paste the code below, then press enter.**  
 ```
-irm https://run.heyfordy.de/vs-code | iex
+irm https://run.heyfordy.dev/vs-code | iex
 ```
 3.   That's all
 
